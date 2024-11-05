@@ -1,7 +1,7 @@
 
 ### Links
 
-- Solution URL: https://github.com/salva-it/social-links-profile-main.git
+- Solution URL: https://github.com/salva-it/Four-card-feature-section
 - Live Site URL: (https://salva-it.github.io/social-links-profile-main/)
 
 
